@@ -1,4 +1,4 @@
-# Servers failure simulator with data loss probability calculation.
+# Servers failure simulator with data loss probability calculation
 Prints results to command line.
 Has 2 modes:
 1) "-n num --random" num servers with random allocation of 2 replicas of 0 < data < 100.
